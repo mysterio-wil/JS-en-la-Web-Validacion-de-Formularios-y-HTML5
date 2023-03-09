@@ -110,7 +110,7 @@ INSTRUCTOR: Harland Lohora
   - **netlify:** https://www.netlify.com/
 - Haga lo que hicimos en aula
 - Proyecto final
-  - Descargar aquí: https://github.com/nobody-redhawk/JS-en-la-Web-Validacion-de-Formularios-y-HTML5/tree/5cb8c90e3bf65674b685cdedbc9546fade47f269
+  - Descargar aquí: https://github.com/nobody-redhawk/JS-en-la-Web-Validacion-de-Formularios-y-HTML5.git
 - Lo que aprendimos
   - A subir tu proyecto a producción.
 - Conclusión
