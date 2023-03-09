@@ -117,8 +117,9 @@ INSTRUCTOR: Harland Lohora
 
 # Galería
 
-! [ Imágen ] ()
-
+![texto_alternativo](/assets/img/imagen1.png)
+![texto_alternativo](/assets/img/imagen2.png)
+![texto_alternativo](/assets/img/imagen3.png)
 
 
 
